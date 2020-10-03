@@ -1,1 +1,1 @@
-# A reporistory for Questions
+# A repository for Questions
